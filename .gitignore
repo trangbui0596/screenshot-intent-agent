@@ -1,0 +1,7 @@
+.env
+progress.json
+last_page.json
+screenshot_analysis.json
+__pycache__/
+*.pyc
+.venv/
